@@ -24,6 +24,19 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.dark {
+    background: #121212;
+    color: white;
+}
+
+.dark-mode section {
+background-color: #1e1e1e;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
 /* العنوان الرئيسي */
 h1 {
   text-align: center;
